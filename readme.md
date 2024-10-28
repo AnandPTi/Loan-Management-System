@@ -4,6 +4,15 @@
 
 This Loan Management System is a Node.js and Express-based application that enables the management and tracking of loans. The system includes role-based access control with different functionalities for users, verifiers, and administrators. Built with TypeScript and Express, it ensures secure handling of loan applications, user roles, and access privileges.
 
+## Demo Link
+
+[Demo and some code walkthrough](https://drive.google.com/file/d/1dFs6WnHixlt9txpNnx7zVgLZbSbavcD7/view?usp=sharing)
+
+Raw Link
+```
+https://drive.google.com/file/d/1dFs6WnHixlt9txpNnx7zVgLZbSbavcD7/view?usp=sharing
+```
+
 ## Table of Contents
 1. [Features](#features)
 2. [Installation](#installation)
